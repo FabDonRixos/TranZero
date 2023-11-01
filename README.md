@@ -1,2 +1,2 @@
 # TranZero
-Einen Weg um das DeepL Limit
+Einen Weg um auf DeepL die Wörterlimite zu umgehen 
