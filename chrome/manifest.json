@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "TranZero",
+  "version": "1.0",
+  "description": "TranZero automates the removal of DeepL usage-limitation cookies, allowing users to continue translating without interruptions. Experience a seamless translation process without having to manually manage your browser cookies.",
+  "icons": {
+    "48": "icons/logo.png"
+  },
+  "permissions": [
+    "cookies",
+    "*://*.deepl.com/*"
+  ],
+  "background_page": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.deepl.com/*"],
+      "js": ["TranZero.js"]
+    }
+  ]
+}
