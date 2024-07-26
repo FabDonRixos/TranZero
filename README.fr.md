@@ -10,7 +10,7 @@ TranZero automatise la suppression des cookies DeepL qui imposent des restrictio
 
 ## Installation
 
-1. Allez sur [lien]("https://addons.mozilla.org/de/firefox/addon/tranzero/") et installez l'extension.
+1. Allez sur [lien]("addons.mozilla.org/de/firefox/addon/tranzero/") et installez l'extension.
 2. Activez l'extension dans votre navigateur.
 
 ## Utilisation
