@@ -10,12 +10,21 @@ TranZero automates the removal of DeepL cookies that impose usage restrictions, 
 
 ## Installation
 
+### Firefox
 1. Go to [link](https://addons.mozilla.org/de/firefox/addon/tranzero/) and install the extension.
-2. Enable the extension in your browser.
+2. If the link doesn't work try downloading the <a href="./TranZero_firefox.zip" download>ZIP Folder</a>
+3. Enable the extension in your browser.
+
+### Chrome
+1. Chrome is currently not fully available
+2. But you can download the <a href="./TranZero_Chrome.zip" download>ZIP Folder</a>
+3. And install it as an extension
+
+- Please note that if you use the ZIP folder, you will not receive automatic updates for new versions.
 
 ## Usage
 
-After installation, TranZero will automatically delete DeepL cookies, allowing you to translate without interruption.
+- After installation, TranZero will automatically delete DeepL cookies, allowing you to translate without interruption.
 
 ## Features
 
@@ -24,8 +33,8 @@ After installation, TranZero will automatically delete DeepL cookies, allowing y
 
 ## License
 
-This extension is licensed under the [MIT License](link-to-license).
+- This extension is licensed under the [MIT License](link-to-license).
 
 ## Contact
 
-For questions or feedback, contact me via [Email](mailto:question@fabian.li).
+- For questions or feedback, contact me via [Email](mailto:question@fabian.li).

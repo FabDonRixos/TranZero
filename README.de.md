@@ -10,12 +10,21 @@ TranZero automatisiert die Entfernung von DeepL Cookies zur Nutzungsbeschränkun
 
 ## Installation
 
+### Firefox
 1. Gehen Sie zu [link]("https://addons.mozilla.org/de/firefox/addon/tranzero/) und installieren Sie die Erweiterung.
-2. Aktivieren Sie die Erweiterung in Ihrem Browser.
+2. Wenn der Link nicht funktioniert, versuchen Sie, den <a href="./TranZero_firefox.zip" download>Zip-Ordner</a> herunterzuladen
+3. Aktivieren Sie die Erweiterung in Ihrem Browser.
+
+### Chrome
+1. Chrome ist derzeit nicht vollständig verfügbar.
+2. Aber Sie können den <a href="./TranZero_Chrome.zip" download>ZIP-Ordner</a> herunterzuladen
+3. Und als Erweiterung in Ihrem Browser aktivieren.
+
+- Bitte beachten Sie, dass Sie bei Verwendung des ZIP-Ordners keine automatischen Updates für neue Versionen erhalten.
 
 ## Verwendung
 
-Nach der Installation wird TranZero automatisch die DeepL-Cookies löschen, sodass Sie ohne Unterbrechung übersetzen können.
+- Nach der Installation wird TranZero automatisch die DeepL-Cookies löschen, sodass Sie ohne Unterbrechung übersetzen können.
 
 ## Features
 
@@ -24,8 +33,8 @@ Nach der Installation wird TranZero automatisch die DeepL-Cookies löschen, soda
 
 ## Lizenz
 
-Diese Erweiterung steht unter der [MIT-Lizenz](link-zur-lizenz).
+- Diese Erweiterung steht unter der [MIT-Lizenz](link-zur-lizenz).
 
 ## Kontakt
 
-Für Fragen oder Feedback kontaktieren Sie mich über [Email](mailto:question@fabian.li).
+- Für Fragen oder Feedback kontaktieren Sie mich über [Email](mailto:question@fabian.li).
