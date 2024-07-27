@@ -12,12 +12,12 @@ TranZero automatise la suppression des cookies DeepL qui imposent des restrictio
 
 ### Firefox
 1. Allez sur [link](https://addons.mozilla.org/de/firefox/addon/tranzero/) et installez l'extension.
-2. Si le lien ne fonctionne pas, essayez de télécharger le <a href="https://github.com/FabDonRixos/TranZero/blob/master/TranZero_firefox.zip" download>dossier ZIP</a>.
+2. Si le lien ne fonctionne pas, essayez de télécharger le [dossier ZIP](https://github.com/FabDonRixos/TranZero/blob/master/TranZero_Firefox.zip "download").
 3. Activez l'extension dans votre navigateur.
 
 ### Chrome
 1. Chrome n'est actuellement pas entièrement disponible.
-2. Mais vous pouvez télécharger le <a href="https://github.com/FabDonRixos/TranZero/blob/master/TranZero_Chrome.zip" download>dossier ZIP</a>.
+2. Mais vous pouvez télécharger le [dossier ZIP](https://github.com/FabDonRixos/TranZero/blob/master/TranZero_Chrome.zip "download").
 3. Et l'installer comme extension.
 
 - Veuillez noter que si vous utilisez le dossier ZIP, vous ne recevrez pas de mises à jour automatiques pour les nouvelles versions.
@@ -33,7 +33,7 @@ TranZero automatise la suppression des cookies DeepL qui imposent des restrictio
 
 ## Licence
 
-- Cette extension est sous licence [MIT](lien-vers-la-licence).
+- Cette extension est sous licence [MIT](https://github.com/FabDonRixos/TranZero/blob/master/LICENSE).
 
 ## Contact
 

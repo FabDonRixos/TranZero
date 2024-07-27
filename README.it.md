@@ -12,12 +12,12 @@ TranZero automatizza la rimozione dei cookie di DeepL che impongono restrizioni 
 
 ### Firefox
 1. Vai su [link](https://addons.mozilla.org/de/firefox/addon/tranzero/) e installa l'estensione.
-2. Se il link non funziona, prova a scaricare la <a href="https://github.com/FabDonRixos/TranZero/blob/master/TranZero_firefox.zip" download>cartella ZIP</a>.
+2. Se il link non funziona, prova a scaricare la [cartella ZIP](https://github.com/FabDonRixos/TranZero/blob/master/TranZero_Firefox.zip "download")
 3. Abilita l'estensione nel tuo browser.
 
 ### Chrome
 1. Chrome attualmente non è completamente disponibile.
-2. Ma puoi scaricare la <a href="https://github.com/FabDonRixos/TranZero/blob/master/TranZero_Chrome.zip" download>cartella ZIP</a>.
+2. Ma puoi scaricare la [cartella ZIP](https://github.com/FabDonRixos/TranZero/blob/master/TranZero_Chrome.zip "download").
 3. E installarla come estensione.
 
 ## Utilizzo
@@ -31,7 +31,7 @@ TranZero automatizza la rimozione dei cookie di DeepL che impongono restrizioni 
 
 ## Licenza
 
-- Questa estensione è concessa sotto licenza [MIT](link-alla-licenza).
+- Questa estensione è concessa sotto licenza [MIT](https://github.com/FabDonRixos/TranZero/blob/master/LICENSE).
 
 ## Contatto
 
