@@ -1,7 +1,6 @@
-const classname = "ManyTranslationsBlockDialog-module--content--RZBGR"
+const classname = "ManyTranslationsBlockDialog-module--content--024d6"
 
 async function clearCookie() {
-
     await chrome.runtime.sendMessage({action: "clearCookies"});
     window.location.reload();
 }
