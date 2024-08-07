@@ -16,9 +16,9 @@ TranZero automates the removal of DeepL cookies that impose usage restrictions, 
 3. Enable the extension in your browser.
 
 ### Chrome
-1. Chrome is currently not fully available
-2. But you can download the [ZIP Folder](https://github.com/FabDonRixos/TranZero/blob/master/TranZero_Chrome.zip "download").
-3. And install it as an extension
+1. Go to [link](https://chromewebstore.google.com/detail/tranzero/jgcgomlgljmioplnpkcocioggddeicmo) and install the extension.
+2. If the link doesn't work try downloading the [ZIP Folder](https://github.com/FabDonRixos/TranZero/blob/master/TranZero_Chrome.zip "download")
+3. Enable the extension in your browser.
 
 - Please note that if you use the ZIP folder, you will not receive automatic updates for new versions.
 
