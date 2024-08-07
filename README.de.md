@@ -1,5 +1,5 @@
 # TranZero 
-<img src="./logo.svg" alt="logo" style="position: absolute; top: 1rem; right: 1rem; width: 4.5rem">
+<img src="./logo.svg" alt="logo" align="right" width="100" height="100">
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/FabDonRixos/TranZero/blob/main/README.md)
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/FabDonRixos/TranZero/blob/main/README.de.md)
