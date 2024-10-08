@@ -35,4 +35,4 @@ TranZero automatizza la rimozione dei cookie di DeepL che impongono restrizioni 
 
 ## Contatto
 
-- Per domande o feedback, contattami via [Email](mailto:question@fabian.li).
+- Per domande o feedback, contattami via [Email](mailto:TranZero@fabian.li).

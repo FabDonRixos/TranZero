@@ -37,4 +37,4 @@ TranZero automatisiert die Entfernung von DeepL Cookies zur Nutzungsbeschränkun
 
 ## Kontakt
 
-- Für Fragen oder Feedback kontaktieren Sie mich über [Email](mailto:question@fabian.li).
+- Für Fragen oder Feedback kontaktieren Sie mich über [Email](mailto:TranZero@fabian.li).
