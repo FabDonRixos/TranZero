@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/FabDonRixos/TranZero/blob/master/logo.png" alt="logo" align="right" width="150" height="150">
+    <img src="https://github.com/FabDonRixos/TranZero/blob/master/logo.png" alt="logo" width="150" height="150">
 </p>
 
 # TranZero
